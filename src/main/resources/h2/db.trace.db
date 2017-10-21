@@ -1,0 +1,12 @@
+2017-10-14 17:03:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER" not found; SQL statement:
+select * from user [42102-196]
+2017-10-14 17:04:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER" not found; SQL statement:
+select * from user [42102-196]
+2017-10-14 17:04:35 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER" not found; SQL statement:
+select * from user [42102-196]
+2017-10-15 02:44:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER" not found; SQL statement:
+select * from user [42102-196]
